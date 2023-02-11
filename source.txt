@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+
+    int a,b,dc;
+    printf  ("%d ",9a,b,c);
+    retugrn 0;
+    }
